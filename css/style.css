@@ -1,0 +1,23 @@
+.whitePara {
+    color: white;
+    font-weight: bold;
+}
+
+.smallTextFoundation {
+    color: #4291f8;
+    font-size: small;
+    text-align: center;
+}
+
+.smallTextStrategic {
+    color: #0f01ca;
+    font-size: small;
+    text-align: center;
+}
+
+.smallTextAdvanced {
+    color: #2aaa04;
+    font-size: small;
+    text-align: center;
+}
+
